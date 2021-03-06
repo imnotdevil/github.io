@@ -1,0 +1,40 @@
+.carousel {
+  width: 70%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.carousel .carousel-inner {
+  position: relative;
+  height: 100vh;
+}
+
+.carousel .carousel-inner .d-block {
+  height: 95vh;
+}
+
+.carousel .carousel-inner .carousel-caption {
+  position: absolute;
+  height: 60vh;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+.img-second {
+  width: 97%;
+  height: 80vh;
+}
+
+.link-t-a {
+  position: relative;
+  top: -90px;
+  display: block;
+}
+
+.footer-contact .footer-mail {
+  margin-top: 150px;
+  margin-bottom: 200px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
